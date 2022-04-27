@@ -1,18 +1,13 @@
-# Project 4: Machine Learning Fairness
-
-### [Project Description](doc/project4_desc.md)
+# Project 5: Free Topic
 
 Term: Spring 2022
 
-+ Team #
-+ Projec title: Lorem ipsum dolor sit amet
++ Team 9
++ Projec title:  Health Insurance Cross Sell Prediction
 + Team members
-	+ team member 1
-	+ team member 2
-	+ team member 3
-	+ team member 4
-	+ team member 5
-+ Project summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+	+ Xiran Lin
+
++ Project summary: To see how to implement machine learning in actuarial science, this is a good example. The goal for this project is to predict if the customers will be interested in our vehicle insurance or not. To do so, testing different models to see which model have the best performance so that we can use further to predict.
 	
 **Contribution statement**: [default] All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
